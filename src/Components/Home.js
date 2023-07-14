@@ -1,5 +1,4 @@
 import React from 'react';
-// import Navbar from '../Navbar/navbar';
 import slide from '../Images/Slide.jpg'
 import slide2 from '../Images/Slide2.png'
 import { Link } from 'react-router-dom';
