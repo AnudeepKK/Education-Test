@@ -27,7 +27,7 @@ const Home = () => {
       <main>
         
         <div className="container">
-          <h1 className='text-success'>Welcome to our Education Platform!</h1>
+          <h1 className='text-success'>Welcome to our Education Programming Courses!</h1>
           <Carousel>
             <Carousel.Item>
               <img
@@ -36,8 +36,8 @@ const Home = () => {
                 alt="First slide"
               />
               <Carousel.Caption>
-                <h3>Slide 1</h3>
-                <p>Some description for slide 1</p>
+                <h3>World wide known</h3>
+                <p>Our students are spread wordwide </p>
               </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -47,8 +47,8 @@ const Home = () => {
                 alt="Second slide"
               />
               <Carousel.Caption>
-                <h3>Slide 2</h3>
-                <p>Some description for slide 2</p>
+                <h3>Best Trainners</h3>
+                <p>Get the top researched from around the world</p>
               </Carousel.Caption>
             </Carousel.Item>
           </Carousel>
